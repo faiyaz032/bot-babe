@@ -1,0 +1,23 @@
+{
+  "domain": ".example.com",
+
+  "expirationDate": 1646300888,
+
+  "hostOnly": false,
+
+  "httpOnly": false,
+
+  "name": "user_id",
+
+  "path": "/",
+
+  "sameSite": "no_restriction",
+
+  "secure": false,
+
+  "session": false,
+
+  "storeId": "0",
+
+  "value": "987654321"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "personality3",
+
+  "name": "Doe",
+
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36",
+
+  "screenWidth": 1920,
+
+  "screenHeight": 1080,
+
+  "viewportWidth": 1366,
+
+  "viewportHeight": 768,
+
+  "language": "en-US,en;q=0.9",
+
+  "timezone": "Europe/London",
+
+  "proxyServer": "http://username:password@proxyserver.com:port",
+
+  "cookieFiles": ["../cookies/cookie2.json"]
+}
